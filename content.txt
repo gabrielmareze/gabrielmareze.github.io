@@ -100,7 +100,7 @@ place: Orlando, FL
 title: Autonomous Warehouse Robot
 main: yes
 type: Work
-summary: Traced a roll and wheel-splay problem to its causes and redesigned the chassis, which led to a 100-unit follow-on order.
+summary: Redesigned a warehouse robot chassis to improve stability and support a 100-unit follow-on order.
 org: Design Launchers, LLC
 tools: SolidWorks, hand calculations, mass/CG simulation, GD&T
 role: Product Development Engineer Associate
@@ -128,7 +128,7 @@ section: Takeaways
 title: NASA Student Launch: Air-Brakes
 main: yes
 type: Club
-summary: A PID-controlled airbrake system on an ESP32 that trims a rocket toward a 4,850 ft apogee, flown at full scale.
+summary: Developed and flight-tested rocket airbrakes for a 4,850 ft target apogee.
 org: NASA Student Launch, Project Zenith
 tools: C++, ESP32, SolidWorks, PID control
 role: Avionics Specialist, Controls Sub-team
@@ -155,7 +155,7 @@ section: Takeaways
 title: Automated Card Dealer
 main: yes
 type: Personal
-summary: Deals to multiple players using servos, a stepper, and IR sensing, with a stopper roller that fixed card jams.
+summary: Designed and built an automated card dealer with sensor-based card counting.
 org: Personal project
 tools: SolidWorks, ESP32, PCA9685, FDM printing
 role: Solo Project
@@ -181,7 +181,7 @@ section: Takeaways
 title: Canoe Cart
 main: yes
 type: Work
-summary: A rivet-assembled sheet metal cart that carries up to 160 lbs of kayak or canoe.
+summary: Designed a rivet-assembled sheet metal cart for canoes and kayaks up to 160 lb.
 org: Design Launchers, LLC
 tools: SolidWorks sheet metal, flat patterns
 role: Product Development Engineer Associate
@@ -209,7 +209,7 @@ section: Takeaways
 title: Reaction Wheel Test Fixture
 main: yes
 type: Work
-summary: A 3D printed fixture that holds calibrated magnets at set distances to find the field strength where a sensor trips.
+summary: Designed a fixture to test a reaction wheel sensor at controlled magnetic field strengths.
 org: Astranis Space Technologies
 tools: SolidWorks, 3D printing, Altium
 images: rw-fixture-1.jpg
@@ -238,7 +238,7 @@ section: Takeaways
 title: Modular Cam-Locking Harness
 main: yes
 type: Work
-summary: Shear analysis and a spring-loaded gear that lets a harness adjust with one hand.
+summary: Developed a cam-locking harness mechanism for one-handed adjustment.
 org: Design Launchers, LLC
 tools: SolidWorks, shear analysis, injection molding DFM
 role: Lead Product Development Engineer Associate
@@ -264,7 +264,7 @@ section: Takeaways
 [project]
 title: Omega Propulsion Bracket System
 type: Work
-summary: Took ownership of the full bracket system for the propulsion tubes on a new satellite, from requirements to release.
+summary: Designing satellite propulsion tube brackets from requirements through manufacturing release.
 org: Astranis Space Technologies
 tools: SolidWorks, Ansys FEA, Arena PLM
 role: Mechanical Engineering Intern
@@ -286,7 +286,7 @@ section: Takeaways
 [project]
 title: GNOR Autonomous Marine Vessel
 type: Team project
-summary: Team lead and software engineer on a top 5 vessel with IMU-based heading control.
+summary: Led a team to a top-five finish with an autonomous vessel using IMU-based heading control.
 org: Student team of 4
 tools: C++, Arduino, IMU, laser cutting
 role: Team Lead & Software Engineer, 4-Person Team
@@ -317,7 +317,7 @@ section: Takeaways
 [project]
 title: Waveguide Support Brackets
 type: Work
-summary: Brackets and a universal support plate that hold satellite waveguides in place through launch.
+summary: Designed waveguide supports to withstand satellite launch loads.
 org: Astranis Space Technologies
 tools: SolidWorks, Ansys FEA, CNC machining
 role: Mechanical Engineering Intern
@@ -340,7 +340,7 @@ section: Takeaways
 [project]
 title: Handheld Motorized Gear System
 type: Work
-summary: Drivetrain, power, and PCB work to move a consumer device from prototype toward production.
+summary: Refined a motorized drivetrain and coordinated electronics development for production.
 org: Design Launchers, LLC
 tools: SolidWorks, motor selection, soldering, drill press
 role: Lead Product Development Engineer Associate
@@ -373,7 +373,7 @@ section: Takeaways
 [project]
 title: Arduino Desk Pet
 type: Personal
-summary: A desk pet with animated eyes, a servo-driven tail, and EEPROM persistence, improved through hardware testing.
+summary: Built an interactive desk pet with animated eyes and a moving tail.
 org: Personal project
 tools: Arduino, C++, EEPROM
 images: arduino-pet-3.jpg, arduino-pet-2.jpg, arduino-pet-1.jpg
@@ -400,28 +400,28 @@ section: * Build and hardware
 [project]
 title: Tongue Elevator: Pediatric Medical Device
 type: Work
-summary: A medical-grade tongue positioning device for use by a physician during oral procedures on pediatric patients. Geometry driven entirely by anatomical conformance requirements; extensive use of lofts and swept cuts to achieve the organic surface profile the customer specified, with all edges fully radiused to eliminate any sharp features inside the mouth.
+summary: Modeled a pediatric tongue-positioning device around anatomical and customer requirements.
 org: Design Launchers, LLC
 skills: Medical device design, Surface modeling (lofts and sweeps), Anatomical fit
 
 [project]
 title: Hand Surgery Medical Device
 type: Work
-summary: A laser-cut and bent aluminum device that allows surgeons to independently position and hold each finger during hand surgery. A comb-based adjustment mechanism allows each finger to be locked to a discrete angle independently.
+summary: Designed an adjustable surgical fixture to position and hold each finger independently.
 org: Design Launchers, LLC
 skills: Sheet metal design, Adjustable mechanisms, Medical device design
 
 [project]
 title: CO₂-Powered Cosmetic Sprayer
 type: Work
-summary: A handheld cosmetic sprayer powered by a CO₂ cartridge, developed through three to four design generations over several months of iterative prototyping. The core engineering challenges were CO₂ cartridge integration and designing a puncture mechanism with reliable, consistent actuation.
+summary: Prototyped a CO₂-powered cosmetic sprayer with a cartridge puncture mechanism.
 org: Design Launchers, LLC
 skills: Mechanism design, Pressure cartridge integration, Iterative prototyping
 
 [project]
 title: Multi-Function Compound Applicator
 type: Work
-summary: Three tools in one handheld applicator with modular nozzles and reloadable cartridges.
+summary: Designed a three-in-one applicator with interchangeable nozzles and reloadable cartridges.
 org: Design Launchers, LLC
 tools: SolidWorks, injection molding DFM, prototyping
 role: Lead Product Development Engineer Associate
@@ -451,7 +451,7 @@ section: Takeaways
 [project]
 title: Linear-to-Compound Motion Mechanism
 type: Work
-summary: One linear input drives two motions across the full stroke in a magnet-integrated assembly.
+summary: Designed a mechanism that turns one linear input into two coordinated motions.
 org: Design Launchers, LLC
 tools: SolidWorks, tolerancing, injection molding DFM
 role: Lead Product Development Engineer Associate
@@ -477,7 +477,7 @@ section: Takeaways
 [project]
 title: Wall-Mounted Modular Organizer
 type: Work
-summary: A large closet organizer that collapses flat with retractable gussets and few screws.
+summary: Designed a wall-mounted organizer that folds flat using retractable gussets.
 org: Design Launchers, LLC
 tools: SolidWorks, injection molding, extrusion
 role: Product Development Engineer Associate
@@ -508,28 +508,28 @@ section: Takeaways
 [project]
 title: Eyelet Positioner: Fishing Line Threading Tool
 type: Work
-summary: A compact fishing line threading tool built around a chemically etched metal insert that is subsequently overmolded in plastic. Chemical etching creates surface geometry at tolerances around 20 thousandths of an inch, which the overmold locks onto mechanically; a process that demands precise sequencing between the etching and molding stages to ensure adhesion and dimensional accuracy.
+summary: Designed a fishing-line threading tool combining an etched metal insert and plastic overmold.
 org: Design Launchers, LLC
 skills: Insert molding, Tight tolerances, Chemical etching
 
 [project]
 title: Whiskey Glasses: World Cup & Super Bowl Editions
 type: Work
-summary: A geometry-driven modeling project focused on translating complex surface patterns into manufacturable glass molds. Each design; a soccer ball, golf ball, and human skull; required precise replication of its defining geometry, from the truncated icosahedron panel layout of the soccer ball to the freeform surface topology of the skull.
+summary: Modeled patterned glass designs for manufacturable molds.
 org: Design Launchers, LLC
 skills: Complex surface modeling, Mold design, Geometry for manufacturing
 
 [project]
 title: Colander: Two-Configuration Design
 type: Work
-summary: Designed two configurations varying in handle count and overall size. The project began with drainage performance as the primary objective, then shifted to balance functionality with consumer aesthetic requirements, which drove a redesign of the hole pattern geometry.
+summary: Developed two colander configurations, balancing drainage performance and appearance.
 org: Design Launchers, LLC
 skills: Parametric design, Design for function, Configuration design
 
 [project]
 title: PCB Enclosures (DEV and Flight)
 type: Work
-summary: Designed enclosures for thermal performance, with extra surface geometry and vent holes for heat dissipation, heat pack cable management, and standardized flight-approved screw bosses.
+summary: Designed development and flight PCB enclosures for thermal performance and integration.
 org: Astranis Space Technologies
 tools: Mechanical design
 skills: Thermal design, Enclosure design, Flight hardware
@@ -537,7 +537,7 @@ skills: Thermal design, Enclosure design, Flight hardware
 [project]
 title: SolidWorks Fillet Macros
 type: Work
-summary: Wrote and released company-wide macros that auto-fillet large parts, standardize fillet sizing, and flag broken fillet features, which cuts diagnosis time and CNC operations.
+summary: Automated SolidWorks fillet sizing and broken-feature checks with company-wide macros.
 org: Astranis Space Technologies
 tools: Python, SolidWorks API
 skills: Python and SolidWorks API, Automation, CNC-aware design
